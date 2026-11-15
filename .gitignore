@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+temp_*
+malicious_qr.png
+safe_qr.png
